@@ -4,7 +4,7 @@
 
 You have joined a small cloud team as the Azure Administrator. The organisation wants to start deploying workloads into Azure, but before any virtual machines, storage accounts, or applications are created, the platform needs a clean governance foundation.
 
-Your task is to prepare the first Azure environment by creating a resource group, applying standard tags, and assigning role-based access control (RBAC). This lab proves that you understand the Azure resource hierarchy, governance basics, and access control — all core AZ-104 skills.
+My task is to prepare the first Azure environment by creating a resource group, applying standard tags, and assigning role-based access control (RBAC). This lab proves that I understand the Azure resource hierarchy, governance basics, and access control — all core AZ-104 skills.
 
 ## Business Requirement
 
@@ -23,7 +23,7 @@ Apply standard tags:
 - `project=az104-practice`
 - `costCenter=learning`
 
-Assign yourself the `Owner` role at the resource group scope.
+Assign myself the `Owner` role at the resource group scope.
 
 Validate the configuration using Azure Portal and Azure CLI.
 
@@ -49,7 +49,7 @@ Clean up only if you are not continuing to Day 2.
 
 ## Success Criteria
 
-You should be able to show:
+I should be able to show:
 
 - A resource group created in Azure.
 - Tags applied correctly.
