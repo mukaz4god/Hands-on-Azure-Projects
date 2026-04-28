@@ -133,18 +133,16 @@ In Azure Portal:
 
 ## Step 7 – Evidence for GitHub
 
-Take screenshots of:
+Screenshots of:
 
 - Resource group overview
+ <img width="932" height="391" alt="image" src="https://github.com/user-attachments/assets/783a540f-580d-4276-a663-54e2f08ba79b" />
+<br/>
 - Tags page
+ <img width="932" height="300" alt="image" src="https://github.com/user-attachments/assets/e6363da6-3c2e-409a-8428-f0546fccf1e6" />
+<br/>
 - IAM role assignment page
-- CLI validation output
-
-Store screenshots in:
-
-```text
-/images/day01/
-```
+<img width="889" height="318" alt="image" src="https://github.com/user-attachments/assets/44eaf2f6-d096-4b8c-a78d-f4f921d34dfd" />
 
 ## Step 8 – Cleanup
 
