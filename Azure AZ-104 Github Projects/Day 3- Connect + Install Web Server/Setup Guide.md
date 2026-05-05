@@ -192,13 +192,16 @@ Create this folder:
 /images/day03/
 ```
 
-Add screenshots of:
+Screenshots of:
 
 - Successful RDP session.
+![alt text](image.png)
 - IIS installed in Server Manager.
+![alt text](image-1.png)
 - Custom webpage in browser.
+![alt text](image-2.png)
 - NSG inbound rules showing RDP and HTTP.
-- CLI validation output.
+![alt text](image-3.png)
 
 ## Step 12 – Cleanup / Cost Control
 
