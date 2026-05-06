@@ -22,3 +22,7 @@ ssh azureuser@<public-ip>
 ## Validation
 - SSH works
 - NSG rule exists
+
+## Screenshots
+![alt text](image-1.png)
+![alt text](image.png)
