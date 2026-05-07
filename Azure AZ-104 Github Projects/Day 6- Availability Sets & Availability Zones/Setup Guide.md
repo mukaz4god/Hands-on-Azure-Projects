@@ -498,18 +498,10 @@ Standard_B2s
 
 ---
 
-# GitHub Evidence Checklist
+Screenshots:
 
-Store screenshots in:
-
-```text
-/images/day06/
-```
-
-Recommended screenshots:
-
-- Availability Set overview.
-- VMs listed inside Availability Set.
+- Availability Set overview with VMs listed inside Availability Set.
+![alt text](image.png)
 - VM deployed in Zone 1.
 - VM deployed in Zone 2.
 - CLI output showing Availability Set association.
