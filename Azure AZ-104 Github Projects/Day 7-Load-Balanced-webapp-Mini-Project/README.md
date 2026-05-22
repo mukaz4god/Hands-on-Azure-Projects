@@ -66,19 +66,26 @@ IIS                    IIS
 Store screenshots in:
 
 ```text
-/images/day07/
+/images/
 ```
 
-Recommended screenshots:
+Screenshots:
 
 - VNet and subnet
+![alt text](image.png)
+![alt text](image-1.png)
 - NSG inbound rules
+![alt text](image-2.png)
 - Two VMs running
+![alt text](image-5.png)
 - Load Balancer overview
+![alt text](image-4.png)
 - Backend pool with both VMs
+![alt text](image-3.png)
 - Health probe
+![alt text](image-6.png)
 - Browser showing web page
-- Tags on resources
+![alt text](image-7.png)
 
 ## Cleanup
 
