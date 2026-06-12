@@ -58,7 +58,7 @@ Store screenshots in:
 /images/day08/
 ```
 
-Recommended screenshots:
+screenshots:
 
 - VNet overview
 - Address space

@@ -66,7 +66,7 @@ Store screenshots in:
 /images/day09/
 ```
 
-Recommended screenshots:
+Screenshots:
 
 - Web NSG overview
 - Web NSG inbound rules
